@@ -32,11 +32,11 @@ function About() {
           />  
         <p>
         Greetings! I'm Harika, 
-        a seasoned Software Manual Test Engineer driven by a passion
-        for ensuring the highest quality in software applications.
-        With 3 years of hands-on experience, I specialize in the meticulous art of manual testing, 
-        where each click and keystroke is an exploration to 
-        guarantee a flawless user experience. 
+        an experienced Software Development Engineer in Test (SDET) dedicated to upholding the utmost quality standards in software applications. 
+        With three years of immersive experience, I excel in the dynamic realm of automated testing, 
+        where I architect and implement robust test frameworks to ensure seamless functionality and exceptional user experiences. 
+        My expertise lies in crafting automated scripts and harnessing advanced testing methodologies to unearth bugs and vulnerabilities, 
+        empowering teams to deliver superior software solutions with confidence.
         </p>
       </div>
       </div>
